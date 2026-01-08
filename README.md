@@ -1,6 +1,9 @@
 # 🐻 Twisted Runner
 
 **Twisted Runner** é um jogo de corrida infinita (endless runner) de terror minimalista desenvolvido em Lua. O jogador controla um Stickman e deve sobreviver aos ataques crescentes de Fredbear enquanto a realidade se distorce conforme a pontuação sobe.
+<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/16a03c25-fda1-4f74-8530-73e9f1f926de" />
+
+ <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/c000ac5c-9d9e-4532-9ef4-9f3a0f1f81d2" />
 
 ---
 
